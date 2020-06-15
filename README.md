@@ -14,6 +14,7 @@
 2. use font to create 32 x 32 banner (write whatever text you like)
 3. you can also use icons for graphics 
 4. upload to acpatterns editor and convert
+![ax](https://user-images.githubusercontent.com/9988006/84618414-bcc55380-af04-11ea-92af-42d8d5cbbb61.PNG)
 5. use nintendo switch app to capture QR code 
 6. download QR code to AC custom designs
 7. use your new design! 
